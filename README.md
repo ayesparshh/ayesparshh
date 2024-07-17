@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Exhange-crypto](https://github.com/ayesparshh/exchange)
 
-- 🌱 I’m currently learning **Golang , Machine Learning**
+- 🌱 I’m currently learning **Golang , Ethereum Development , Web 3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayesparshh](https://github.com/ayesparshh)
 
