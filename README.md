@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayesparshh](https://github.com/ayesparshh)
 
-- 💬 Ask me about **Nextjs , Golang , Solodity , Tokens**
+- 💬 Ask me about **Nextjs , Golang , Solidity , Blockchain**
 
 ## Socials
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Sspxrsh)
